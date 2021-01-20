@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/username"
+    android:layout_width="314dp"
+    android:layout_height="49dp"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:layout_marginLeft="31dp"
+    android:layout_marginTop="521dp"
+    android:background="@drawable/username"
+    android:clipToOutline="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/etUsernamID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Username"
+
+            android:drawableRight="@drawable/ic_person_foreground"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

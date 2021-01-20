@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SignUpDbugstation</string>
+    <string name="username">Username</string>
+    <string name="nxt">NXT</string>
+    <string name="lvl">LVL</string>
+    <string name="studio">Studio</string>
+    <string name="tattoo">Tattoo</string>
+    <string name="login">LOGIN</string>
+    <string name="pass">Pass</string>
+    <string name="signup">SIGNUP</string>
+    <string name="signupusing">SIGNUP Using</string>
+    <string name="fullname">Full name</string>
+</resources>

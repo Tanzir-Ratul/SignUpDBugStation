@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/path"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        >
+    <TextView
+        android:id="@+id/tvGooglePlus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="G+"
+
+        android:textSize="25sp"
+        android:textColor="#B62121"/>
+
+
+</LinearLayout>
